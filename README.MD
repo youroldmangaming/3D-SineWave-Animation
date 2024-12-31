@@ -1,4 +1,4 @@
-[![SphereOnCircle Animation Thumbnail](thumbnail.jpg)](https://github.com/youroldmangaming/3D-SineWave-Animation/blob/main/SphereOnCircle.mp4)
+[![SphereOnCircle Animation Thumbnail](sphere_animation.gif)](https://github.com/youroldmangaming/3D-SineWave-Animation/blob/main/SphereOnCircle.mp4)
 
 Or watch it on [YouTube](https://youtu.be/wXhSkg9iTU8).
 
