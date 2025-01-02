@@ -42,6 +42,9 @@ source manimgl-env/bin/activate
 # Step 6: Install ManimGL
 echo "Installing ManimGL..."
 pip install manimgl
+pip install setuptools
+pip install setuptools pydub
+
 
 # Step 7: Verify the installation
 echo "Verifying the installation..."
