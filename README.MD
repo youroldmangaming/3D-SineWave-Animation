@@ -13,6 +13,11 @@ Exploring—waveforms, harmonics, and Fourier series—is at the heart of **sign
    - Observed how simple circular motion (a ball moving around a circle) can generate sine waves, and how combining multiple sine waves (harmonics) can create more complex waveforms like square waves and sawtooth waves.
    - This is the foundation of **Fourier analysis**, which breaks down complex signals into simpler sine and cosine components.
 
+
+[![SphereOnCircle Animation Thumbnail](sphere_animation.gif)](https://github.com/youroldmangaming/3D-SineWave-Animation/blob/main/SphereOnCircle.mp4)
+
+
+
 2. **Harmonics and Overtones**:
    - By adding higher-frequency sine waves (harmonics) to a fundamental frequency, you can shape the resulting waveform. This is how musical instruments create their unique sounds—each instrument has a distinct mix of harmonics.
 
@@ -64,7 +69,7 @@ This is where art and science meet!
 
 Building the base visualisation of a sine wave generation. Notice no reliance of Math libraries, all hard numbers. Based on xls modelling included!!!
 
-[![SphereOnCircle Animation Thumbnail](sphere_animation.gif)](https://github.com/youroldmangaming/3D-SineWave-Animation/blob/main/SphereOnCircle.mp4)
+
 
 3D Sine Wave [YouTube](https://youtu.be/YlmWVUL-KwY)
 
@@ -83,11 +88,6 @@ or
 
 ffmpeg -i SphereOnCircle.mp4 -vf "fps=60,scale=640:-1:flags=lanczos" -c:v pam -f image2pipe - | convert -delay 5 -loop 0 - sphere_animation.gif
 
-Square Wave Harmonics
 
-
-
-
-Sawtooth Wave Harmonics
 
 
