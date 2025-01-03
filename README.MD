@@ -2,6 +2,9 @@ Building the base visualisation of a sine wave generation. Notice no reliance of
 
 [![SphereOnCircle Animation Thumbnail](sphere_animation.gif)](https://github.com/youroldmangaming/3D-SineWave-Animation/blob/main/SphereOnCircle.mp4)
 
+3D Sine Wave [YouTube](https://youtu.be/YlmWVUL-KwY)
+
+
 Or watch it on [YouTube](https://youtu.be/wXhSkg9iTU8).
 
 Run Code
