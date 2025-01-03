@@ -16,7 +16,7 @@ Exploring—waveforms, harmonics, and Fourier series—is at the heart of **sign
 2. **Harmonics and Overtones**:
    - By adding higher-frequency sine waves (harmonics) to a fundamental frequency, you can shape the resulting waveform. This is how musical instruments create their unique sounds—each instrument has a distinct mix of harmonics.
 
-[![Square Wave Production](square.png)]
+[![Square Wave Production](Square.png)]
 
 
 3. **Visualizing Math**:
