@@ -1,3 +1,5 @@
+[![3D Sine Wave](image_2025-01-03_154007624.png)]
+
 Building the base visualisation of a sine wave generation. Notice no reliance of Math libraries, all hard numbers. Based on xls modelling included!!!
 
 [![SphereOnCircle Animation Thumbnail](sphere_animation.gif)](https://github.com/youroldmangaming/3D-SineWave-Animation/blob/main/SphereOnCircle.mp4)
