@@ -16,6 +16,9 @@ Exploring—waveforms, harmonics, and Fourier series—is at the heart of **sign
 2. **Harmonics and Overtones**:
    - By adding higher-frequency sine waves (harmonics) to a fundamental frequency, you can shape the resulting waveform. This is how musical instruments create their unique sounds—each instrument has a distinct mix of harmonics.
 
+[![Square Wave Production](square.png)]
+
+
 3. **Visualizing Math**:
    - Using tools like Manim, you’re able to visualize abstract mathematical concepts in a way that makes them intuitive and engaging. This is a superpower for understanding and communicating complex ideas.
 
