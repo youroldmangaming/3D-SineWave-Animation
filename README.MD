@@ -28,7 +28,6 @@ Exploring—waveforms, harmonics, and Fourier series—is at the heart of **sign
    - Using tools like Manim, you’re able to visualize abstract mathematical concepts in a way that makes them intuitive and engaging. This is a superpower for understanding and communicating complex ideas.
 
 [![Square Wave Proof](square_proof.png)]
-[![Saw Tooth Wave Proof](sawtooth_proof.png)]
 ---
 
 ## Why This is Fascinating
